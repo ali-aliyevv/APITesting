@@ -2,7 +2,6 @@ import wikipedia
 import requests
 from colorama import init, Fore, Style
 
-# Initialize colorama
 init(autoreset=True)
 
 def test_suggest():
